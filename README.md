@@ -32,7 +32,7 @@
 ### About Me 🚀
 - 🌱 I’m passionate about **Flutter** and **Mobile Development**, currently exploring the integration of **AI** and **Backend Services**.
 - 💻 I’ve worked on projects involving **Node.js**, **MongoDB**, and **Firebase** for backend development.
-- ⚡ Fun fact: I started with **Chemical Engineering** and transitioned to **Computer Science** to pursue my love for tech!
+- ⚡ Fun fact: I transitioned from **Chemical Engineering** to **Software Development** because of my passion for technology and creating innovative solutions!
 
 ---
 
@@ -55,8 +55,8 @@
 
 #### **4. [Bike Showroom Management System](https://github.com/asim8848/Bike-Showroom-Management-System)**
    - **Role**: Full Stack Developer
-   - **Description**: A management system for bike showrooms to track inventory, sales, and customer data.
-   - **Technologies**: PHP, MySQL, HTML/CSS, JavaScript
+   - **Description**: A Windows Forms-based management system for bike showrooms to track inventory, sales, and customer data. Built with **C#** and **MySQL**.
+   - **Technologies**: C# Windows Forms, MySQL, HTML/CSS, JavaScript
 
 ---
 
@@ -84,7 +84,7 @@
 ---
 
 ### 🧠 Fun Fact:
-I started my journey in **Chemical Engineering**, then found my true calling in **Software Development**. Now, I’m building the future with **Flutter** and **AI**! 🚀
+I started in **Chemical Engineering**, but my passion for **technology** and **creating innovative solutions** led me to **Software Development**. Now, I'm building the future with **Flutter** and **AI**! 🚀
 
 ---
 
@@ -100,7 +100,3 @@ I started my journey in **Chemical Engineering**, then found my true calling in 
 ---
 
 ### Show some ❤️ by ⭐️ some of my repositories!
-
----
-
-Let me know if you need any more modifications or additions! This should now represent your work and skills clearly while highlighting your current projects. 😄
