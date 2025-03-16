@@ -5,7 +5,7 @@
 ## Hi 👋, I'm [Muhammad Asim!](http://www.muhammadasim.ml/)
 
 <!-- Headline -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=FF3A61&width=500&lines=I+am+a+Flutter+Developer+and+Backend+Enthusiast....">
+<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=FF3A61&width=500&lines=I+am+a+Flutter+Developer+and+AI+Enthusiast....">
     
 > Building scalable apps with **Flutter** and exploring the future of **AI** 💻💡
 
