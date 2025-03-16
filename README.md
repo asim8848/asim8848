@@ -32,7 +32,7 @@
 ### About Me 🚀
 - 🌱 I’m passionate about **Flutter** and **Mobile Development**, currently exploring the integration of **AI** and **Backend Services**.
 - 💻 I’ve worked on projects involving **Node.js**, **MongoDB**, and **Firebase** for backend development.
-- ⚡ Fun fact: I transitioned from **Chemical Engineering** to **Software Development** because of my passion for technology and creating innovative solutions!
+- ⚡ Fun fact: I transitioned from **Mechatronics Engineering** to **Software Development** because of my passion for technology and creating innovative solutions!
 
 ---
 
