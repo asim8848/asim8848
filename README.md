@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="TopRameez.png" width="480px"/>    
+    <img src="Asimheader.png" width="480px"/>    
 </p>
 
 ## Hi 👋, I'm [Muhammad Asim!](http://www.muhammadasim.ml/)
